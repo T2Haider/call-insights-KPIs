@@ -1,0 +1,1 @@
+CREATE INDEX `calls_ended_at_idx` ON `calls` (`ended_at`);

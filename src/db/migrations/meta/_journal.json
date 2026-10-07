@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791308347796,
+      "tag": "0000_polite_arclight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791311149191,
+      "tag": "0001_foamy_spencer_smythe",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791312527597,
+      "tag": "0002_drop_poller_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791312529726,
+      "tag": "0003_add_ingestion_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791313163158,
+      "tag": "0004_nullable_end_and_duration",
+      "breakpoints": true
+    }
+  ]
+}
